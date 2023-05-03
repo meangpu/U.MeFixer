@@ -1,9 +1,7 @@
-# UnityPackageTemplate
-
-create for make modular audio manager
+# Unity Fixer
 
 install via
 
 ```text
-https://github.com/meangpu/U.MePackage.git
+https://github.com/meangpu/U.MeFixer.git
 ```
